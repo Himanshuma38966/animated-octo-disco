@@ -1,0 +1,15 @@
+
+
+.grid{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    border:solid;
+    border-style: double;
+    ;
+}
+
+.Item{
+    position:absolute;
+    
+}
